@@ -7,7 +7,7 @@ From  Jamshedpur,Jharkhand</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[AptPlan](https://www.aptplan.ai/)**
+- 🔭 I’m currently working on **[Neokred](Expense Category Classification app)**
 
 - 🌱 I’m currently learning **Devops Tools and Essentials**
 
