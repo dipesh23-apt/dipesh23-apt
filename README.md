@@ -1,7 +1,7 @@
 <img align="right" width="40%" height="40%" src="logo2.png"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10">, I'm Dipesh Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer currently working in AptusdataLabs<br/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I'm Dipesh Kumar</h1>
+<h3 align="center">A passionate Full Stack Developer currently working in Aptus DataLabs<br/>
 From  Jamshedpur,Jharkhand</h3>
 
 
