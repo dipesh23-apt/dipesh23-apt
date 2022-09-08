@@ -74,3 +74,4 @@ From  Jamshedpur,Jharkhand</h3>
 </p>
 
 # Looking forward to build my strength in technical knowledge &enhance my skills !!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipesh23-apt&show_icons=true&theme=merko)
