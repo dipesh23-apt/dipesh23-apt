@@ -7,9 +7,9 @@ From  Jamshedpur,Jharkhand</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Neokred(Expense Category Classification app)**
+- 🔭 I’m currently working on **Besol**
 
-- 🌱 I’m currently learning **Devops Tools and Essentials**
+- 🌱 I’m currently learning **Data Engineering Tools**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
