@@ -7,11 +7,11 @@ From  Jamshedpur,Jharkhand</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Besol**
+- 🔭 I’m currently working on **Aptplan**
 
 - 🌱 I’m currently learning **Data Engineering Tools**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m traversing and making a project on **ElasticSearch, Golang,React,Redis,Postgres**
 
 - 👨‍💻 Like to explore new technologies and domains 
 
