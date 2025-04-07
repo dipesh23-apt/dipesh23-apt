@@ -1,17 +1,17 @@
 <img align="right" width="40%" height="40%" src="logo2.png"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I'm Dipesh Kumar</h1>
-<h3 align="center">A passionate Senior Software Engineer currently working at Inkpaper<br/>
+<h3 align="center">A passionate Senior Software Development Engineer currently working at Razorpay<br/>
 From  Jamshedpur,Jharkhand</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **IP Dynamics**
+- 🔭 I’m currently working on **Razorpay X Onboarding**
 
-- 🌱 I’m currently learning **Large Language Models,Custom AI Engine**
+- 🌱 I’m currently learning **Large Language Models,AI Agents**
 
-- 👯 I’m traversing and making a project on **Decentralized application using Nextjs**
+- 👯 I’m traversing and making a project on **AI Agent**
 
 - 👨‍💻 Like to explore new technologies and domains 
 
